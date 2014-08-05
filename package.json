@@ -1,6 +1,6 @@
 {
   "name": "unicode-keymap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/unicode-keymap.js",
   "description": "Mapping of key character types to Unicode PUA (Private Use Area) code points.",
   "homepage": "https://github.com/hadynz/unicode-keymap",
