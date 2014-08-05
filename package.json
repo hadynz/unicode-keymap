@@ -1,0 +1,42 @@
+{
+  "name": "unicode-keymap",
+  "version": "0.1.0",
+  "main": "lib/unicode-keymap.js",
+  "description": "Mapping of key character types to Unicode PUA (Private Use Area) code points.",
+  "homepage": "https://github.com/hadynz/unicode-keymap",
+  "bugs": "https://github.com/hadynz/unicode-keymap/issues",
+  "author": {
+    "name": "Hady Osman",
+    "email": "hadyos@gmail.com",
+    "url": "http://hady.geek.nz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hadynz/unicode-keymap"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "unicode-keymap",
+    "keymap",
+    "unicode",
+    "ascii",
+    "PUA",
+    "DalekJS",
+    "sendkeys",
+    "keysToSend"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "^0.2.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
