@@ -2,6 +2,8 @@
 
 Mapping of key character types to Unicode PUA (Private Use Area) code points.
 
+[![Build Status](https://travis-ci.org/hadynz/unicode-keymap.svg?branch=master)](https://travis-ci.org/hadynz/unicode-keymap)
+
 #### Overview
 
 Implementation of the [W3C WebDriver spec](http://www.w3.org/TR/2012/WD-webdriver-20120710/#character-types) 
